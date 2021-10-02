@@ -1,1 +1,2 @@
-# Frontend_Location_Alert_App
+# LocationAlertApplication
+Location Reminder application helps the user to remind the task when they are near to their destination by providing an alert such as notification or a ring on their smartphone using geographic database. This application helps its users, especially who are frequent travelers at different places, to identify the specific location which they want to visit as well as remember the task which they have set on that location by giving alert like notification or ringtone on smartphone.
